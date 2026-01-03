@@ -1,0 +1,16 @@
+body {
+  background:#111;
+  color:white;
+  font-family:sans-serif;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+}
+form,div {
+  background:#222;
+  padding:20px;
+}
+input,button {
+  margin:5px;
+}
