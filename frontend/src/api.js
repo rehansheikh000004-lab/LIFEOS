@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://YOUR_RENDER_URL.onrender.com"
+  baseURL: "https://lifeos-n2zf.onrender.com"
 });
 
 api.interceptors.request.use(config => {
